@@ -81,7 +81,7 @@ params:
   
   section1_attention:
     # Main hero title
-    title: "Save $2M with better forecasting in 120 days"
+    title: "Save $100K with better forecasting in 120 days"
     titleTextColor: "white"
     # Hero subtitle (optional)
     subtitle: "We save our clients on average $2M per year through improved forecasting."
