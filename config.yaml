@@ -27,7 +27,7 @@ params:
   # Logo (from static/images/logos/___)
     image: logos/business-science-logo.png
     link: /
-    brandName: Forecast Science
+    brandName: Data For Sound Decisions
     # Default width/height. Uncomment if you need to change
     width: 40
     height: 40
