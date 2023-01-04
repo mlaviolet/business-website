@@ -1,6 +1,6 @@
 baseURL: http://business-science.io/
 languageCode: en-us
-title: Forecast Science
+title: Data for Sound Decisions
 theme: "hugo-fresh-data-science"
 # Put in your google analytics tracking code without quotes like this: UA-XXXXXX...
 googleAnalytics: # UA-XXXXX...
