@@ -3,7 +3,7 @@ languageCode: en-us
 title: Data for Sound Decisions
 theme: "hugo-fresh-data-science"
 # Put in your google analytics tracking code without quotes like this: UA-XXXXXX...
-googleAnalytics: # UA-XXXXX...
+googleAnalytics: 348676647
 
 # Disables warnings
 disableKinds:
